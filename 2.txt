@@ -1,1 +1,3 @@
 learning git
+
+day 1 exercise completed
